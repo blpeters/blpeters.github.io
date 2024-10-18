@@ -4,10 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Sleek is a modern Jekyll theme focused on speed performance & SEO best practices. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/) or simply read the guide on how to [get started](/getting-started)
+Hi - I'm Brett. I work with maps and visualize data. I have a bachelor's degree in civil engineering from The University of Texas, I'm wrapping up my Professional Geospatial Data Analytics & Visualization Certificate from Michigan State University, and I have over 10 years of experience in various professional settings including consulting, engineering, construction and real estate.
 
-You can find the source code for the Jekyll new theme at:
-[sleek](https://github.com/janczizikow/sleek)
+I've been a lot of things including engineer, project manager, cabinet-maker, photographer and drone pilot.  I have a wide breadth of knowledge, and I like using all of it. I see this as  a strength . I've solved a variety of problems and have found that so many skills transfer in surprising ways.
 
-You can find the source code for Jekyll at
-[jekyll](https://github.com/jekyll/jekyll)
+
