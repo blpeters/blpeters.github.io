@@ -1,9 +1,6 @@
 ---
-#
-# You don't need to edit this file, it's empty on purpose.
-# Edit sleeks's default layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-#
-layout: default
-title: Sleek Jekyll Theme
+layout: post # needs to be post
+title: Web Dashboard: Housing Prices in Michigan
+featured-img: MichiganRentDashboard #optional - if you want you can include hero image
 ---
+Text about project.
